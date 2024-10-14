@@ -7,7 +7,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://XnezX.github.io/mi-cv-daniel",
+  "homepage": "https://XnezX.github.io/mi-cv-daniel/",
   "dependencies": {
     "react": "^18.0.0", 
     "react-dom": "^18.0.0"
